@@ -1,0 +1,19 @@
+"SUPPORT VECTOR MACHINE"
+
+-support vector(extreme endpoints of a dataset) machine
+-supervised learning
+-training based model
+-classifier formally defined by a hyperplane. 
+-given labelled training data, the algorithms outputs an optimal hyperplane which categorizes new examples.
+
+types of svm:
+	-Linear: Linear SVM is used for linearly separable data, which means if a dataset can be classified into two classes by using a single straight line, then such data is termed as linearly separable data, and classifier is used called as Linear SVM classifier.
+	-Non-Linear: Non-Linear SVM is used for non-linearly separated data, which means if a dataset cannot be classified by using a straight line, then such data is termed as non-linear data and classifier used is called as Non-linear SVM classifier.
+	
+hyperplane:
+	-There can be multiple lines/decision boundaries to segregate the classes in n-dimensional space, but we need to find out the best decision boundary that helps to classify the data points.
+	
+support vectors:
+	-The data points or vectors that are the closest to the hyperplane and which affect the position of the hyperplane are termed as Support Vector. Since these vectors support the hyperplane, hence called a Support vector.
+
+
